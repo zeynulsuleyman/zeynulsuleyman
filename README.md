@@ -17,10 +17,10 @@
 
 ## 💻 Data Visualization 
 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAi2K4sTA5uDPWV6rmwdVDg5swuCMnRPaiwEp9SVRJV9O6-kSGTGE-M5YP37Ie_faPnI&usqp=CAU" alt="Microsoft Power BI" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60", width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60", width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60", width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAi2K4sTA5uDPWV6rmwdVDg5swuCMnRPaiwEp9SVRJV9O6-kSGTGE-M5YP37Ie_faPnI&usqp=CAU" alt="Microsoft Power BI" height="60", width="60"/> </a>
 
 
 ## 💻 Python Libraries
